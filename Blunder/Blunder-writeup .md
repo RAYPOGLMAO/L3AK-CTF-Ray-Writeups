@@ -31,7 +31,7 @@ So I decided to observe the white Queen more closely.
 
 Throughout the first game, the Queen's movements in the center of the board were as follows:
 
-!["image2.png"]("image2.png")
+![image2.png](image2.png)
 
 Which resembles the letter H.
 
