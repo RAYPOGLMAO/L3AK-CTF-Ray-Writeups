@@ -31,7 +31,7 @@ So I decided to observe the white Queen more closely.
 
 Throughout the first game, the Queen's movements in the center of the board were as follows:
 
-![image.png](image.png)
+!["image2.png"]("image2.png")
 
 Which resembles the letter H.
 
@@ -39,9 +39,9 @@ So I thought the flag might be hidden in the board, and the Queen's movement is 
 
 2nd game: (Letter A)
 
-![image.png](image.png)
+![image3.png](image3.png)
 
-I traced the Queen's movements by hand and assembled all the letters in this PDF file:
+I traced the Queen's movements by hand and assembled all the letters in this PDF file: (took a long time to make)
 
 [Blunder-Solution.pdf](Blunder-Solution.pdf)
 
